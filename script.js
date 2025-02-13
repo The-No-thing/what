@@ -56,13 +56,14 @@ function checkPassword() {
 }
 
 const quotes = [
-    "Success is not final, failure is not fatal: it is the courage to continue that counts. ❤️",
-    "Every test in our life makes us bitter or better, every problem comes to make us or break us. 📚",
-    "Don't watch the clock; do what it does. Keep going. 💪",
-    "The future belongs to those who believe in the beauty of their dreams. ✨",
-    "You've got this! One page at a time, one problem at a time. 📖",
-    "Your love for success should be greater than your fear of failure. 💕",
-    "Study like you're in love with education. ❤️📚",
+    "Do or Die",
+    "Don't forget to rest in the midst of your hustle. 🌿",
+    "Success is not final, failure is not fatal: it is the courage to continue that counts. ❤️ [ok gpt gave this quote, but seriously? she'll fail...noob gpt]",
+    "Every test in our life makes us bitter or better, every problem comes to make us or break us. 📚 [proceeds to get better by writing code in paper instead of ide]",
+    "Don't watch the clock; do what it does. Keep going. 💪 [uffff gpt high on motivation]",
+    "Keep chasing your dreams. ✨",
+    "You've got this! One question at a time. 📖",
+    "Study like you're in love with education. ❤️📚[or me?(jk, there's a question mark for a reason)]",
     "Believe you can and you're halfway there. 🌟",
 ];
 
